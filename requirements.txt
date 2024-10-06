@@ -1,0 +1,12 @@
+pandas==2.2.3
+numpy<2
+scikit-learn==1.5.2
+matplotlib==3.9.2
+jupyter==1.1.1
+notebook==6.5.7
+scikit-surprise==1.1.4
+torch==2.4.1
+pyarrow==17.0.0
+pytorch-lightning==2.4.0
+optuna==4.0.0
+tensorboard==2.18.0
